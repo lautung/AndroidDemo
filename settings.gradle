@@ -15,3 +15,5 @@ dependencyResolutionManagement {
 rootProject.name = "AndroidDemo"
 include ':app'
 include ':popup_menu'
+include ':recyclerview_sample'
+include ':popup_window'
