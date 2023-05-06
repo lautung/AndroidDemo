@@ -11,6 +11,8 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/popup_menu" />
+            <option value="$PROJECT_DIR$/popup_window" />
+            <option value="$PROJECT_DIR$/recyclerview_sample" />
           </set>
         </option>
       </GradleProjectSettings>
