@@ -13,6 +13,7 @@
             <option value="$PROJECT_DIR$/popup_menu" />
             <option value="$PROJECT_DIR$/popup_window" />
             <option value="$PROJECT_DIR$/recyclerview_sample" />
+            <option value="$PROJECT_DIR$/sensor_sample" />
           </set>
         </option>
       </GradleProjectSettings>
